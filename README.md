@@ -1,18 +1,14 @@
 # Sales Data Analysis Dashboard using Python #
 
 # Project Overview
-
 This project analyzes retail sales data using Python and data visualization libraries. The objective is to uncover sales trends, customer behavior, product performance, and profitability insights.
 
 # Dataset
-
 Sample Superstore Dataset
-
 Records: 9,994
 Features: 21
 
 # Technologies Used
-
 - Python
 - Pandas
 - NumPy
@@ -21,7 +17,6 @@ Features: 21
 - Jupyter Notebook
 
 ## Analysis Performed
-
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Monthly Sales Analysis
@@ -33,7 +28,6 @@ Features: 21
 - Product Performance Analysis
 
 ## Key Findings
-
 - November generated the highest sales.
 - Technology category contributed the highest revenue and profit.
 - West region was the top-performing region.
@@ -41,7 +35,6 @@ Features: 21
 - Higher discounts negatively affected profitability.
 
 ## Visualizations
-
 - Monthly Sales Dashboard
 - Sales Trend Analysis
 - Profit Analysis
@@ -51,5 +44,4 @@ Features: 21
 - Discount vs Profit Scatter Plot
 
 ## Author
-
 Akshay Kuntha
